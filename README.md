@@ -1,6 +1,4 @@
-Aquí tienes un **README.md** en inglés para tu repositorio de wallpapers para rice en Linux:
 
-```markdown
 # Linux Rice Wallpapers
 
 A curated collection of high-quality wallpapers designed to elevate your Linux rice setups.  
@@ -43,7 +41,6 @@ git clone https://github.com/yourusername/linux-rice-wallpapers.git
 All wallpapers are for personal use only.
 If you are the creator of any wallpaper and want credit or removal, please open an issue.
 
----
 
 ⭐ Star the repo if you like the collection!
 
